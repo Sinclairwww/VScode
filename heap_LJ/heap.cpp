@@ -9,7 +9,7 @@ struct heap {
     int* nums;
     int  size;
     int  maxSize;
-};
+};    // ok
 struct heap* init_maxHeap ( int );
 void         insertHeap ( struct heap*, int );
 int          deleteHeap ( struct heap* );
