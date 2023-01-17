@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/VScode/out/Debug",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\BST.dir\\BST\\main.c.obj -c F:\\VScode\\BST\\main.c",
+  "file": "F:/VScode/BST/main.c"
+},
+{
+  "directory": "F:/VScode/out/Debug",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\BST.dir\\BST\\module.c.obj -c F:\\VScode\\BST\\module.c",
+  "file": "F:/VScode/BST/module.c"
+}
+]

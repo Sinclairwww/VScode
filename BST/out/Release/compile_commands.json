@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/VScode/BST/out/Release",
+  "command": "F:\\gytx_x86_64-12.1.0-posix-seh\\mingw64\\bin\\gcc.exe   -O3 -DNDEBUG -o CMakeFiles\\BST.dir\\module.c.obj -c F:\\VScode\\BST\\module.c",
+  "file": "F:/VScode/BST/module.c"
+},
+{
+  "directory": "F:/VScode/BST/out/Release",
+  "command": "F:\\gytx_x86_64-12.1.0-posix-seh\\mingw64\\bin\\gcc.exe   -O3 -DNDEBUG -o CMakeFiles\\BST.dir\\main.c.obj -c F:\\VScode\\BST\\main.c",
+  "file": "F:/VScode/BST/main.c"
+}
+]
